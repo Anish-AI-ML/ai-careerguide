@@ -1,0 +1,129 @@
+{
+ "python": [
+  "Build a command-line expense tracker that reads and writes CSV files",
+  "Write a web scraper that collects and cleans a dataset you care about"
+ ],
+ "statistics": [
+  "Run an A/B test analysis on a public dataset and report confidence intervals",
+  "Write up a short statistical summary of a Kaggle dataset"
+ ],
+ "git": [
+  "Put all your projects on GitHub with clear READMEs and meaningful commit history"
+ ],
+ "linux": [
+  "Set up a Linux VM and automate a backup with a shell script and cron"
+ ],
+ "sql": [
+  "Design a small relational database and answer 10 business questions with SQL",
+  "Analyze a public dataset using window functions and joins"
+ ],
+ "pandas": [
+  "Clean a messy real-world CSV and publish the cleaning notebook"
+ ],
+ "data visualization": [
+  "Build a dashboard that tells one clear story from a public dataset"
+ ],
+ "power bi": [
+  "Create a Power BI report from a public sales dataset"
+ ],
+ "excel": [
+  "Build a budget model in Excel with pivot tables and charts"
+ ],
+ "machine learning": [
+  "Predict a numeric target on a Kaggle dataset and compare at least three models",
+  "Build an end-to-end classifier with proper train/validation/test splits and error analysis"
+ ],
+ "deep learning": [
+  "Train an image classifier from scratch and diagnose overfitting",
+  "Reimplement a small neural network with only NumPy to understand backpropagation"
+ ],
+ "tensorflow": [
+  "Train and export a TensorFlow model for a dataset of your choice"
+ ],
+ "pytorch": [
+  "Fine-tune a pretrained model with PyTorch on a custom dataset"
+ ],
+ "nlp": [
+  "Build a text classifier or sentiment analyzer for reviews",
+  "Create a semantic search tool using sentence embeddings"
+ ],
+ "transformers": [
+  "Fine-tune a small transformer on a classification task"
+ ],
+ "computer vision": [
+  "Build an object detection demo and measure its accuracy",
+  "Create a small image-based quality-inspection prototype"
+ ],
+ "opencv": [
+  "Build a real-time webcam application such as a document scanner"
+ ],
+ "mlops": [
+  "Package a model behind an API with experiment tracking and automated retraining checks"
+ ],
+ "docker": [
+  "Containerize one of your existing apps and publish the image"
+ ],
+ "kubernetes": [
+  "Deploy a containerized app to a local Kubernetes cluster with a service and ingress"
+ ],
+ "cloud": [
+  "Deploy a small web app or model API to a cloud provider's free tier"
+ ],
+ "terraform": [
+  "Provision a small cloud environment entirely from Terraform code"
+ ],
+ "ci/cd": [
+  "Add an automated test-and-deploy pipeline to one of your repositories"
+ ],
+ "monitoring": [
+  "Add metrics and an alert to a deployed service and write a short runbook"
+ ],
+ "networking": [
+  "Capture and explain traffic from a simple client-server exchange"
+ ],
+ "cryptography": [
+  "Implement and explain a hybrid encryption scheme using a standard library"
+ ],
+ "penetration testing": [
+  "Complete a set of guided capture-the-flag labs and write up your methodology"
+ ],
+ "javascript": [
+  "Build an interactive browser app that uses a public API"
+ ],
+ "typescript": [
+  "Convert a JavaScript project to TypeScript with strict mode"
+ ],
+ "react": [
+  "Build a multi-page React app with routing and state management"
+ ],
+ "node.js": [
+  "Build a REST API with authentication and tests"
+ ],
+ "html": [
+  "Build a responsive, accessible personal portfolio page"
+ ],
+ "css": [
+  "Recreate a real website layout with CSS grid and flexbox"
+ ],
+ "mongodb": [
+  "Add a MongoDB-backed feature to a small API"
+ ],
+ "java": [
+  "Build a small console application with unit tests"
+ ],
+ "c++": [
+  "Implement core data structures from scratch with tests"
+ ],
+ "data structures": [
+  "Solve and document 30 problems covering arrays, trees, graphs and hashing"
+ ],
+ "system design": [
+  "Write a design document for a URL shortener covering scaling and failure modes"
+ ],
+ "spark": [
+  "Process a multi-million-row dataset with Spark and compare timings with pandas"
+ ],
+ "airflow": [
+  "Orchestrate a daily data pipeline with Airflow and basic data-quality checks"
+ ]
+}

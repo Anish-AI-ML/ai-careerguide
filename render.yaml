@@ -1,0 +1,14 @@
+# Render Blueprint for the API (the frontend goes on Vercel). Uses the Dockerfile so /data ships with the code.
+services:
+  - type: web
+    name: careerguide-api
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    envVars:
+      - key: DATABASE_URL        # Supabase connection string
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true
+      - key: CORS_ORIGINS        # your Vercel URL, e.g. https://your-app.vercel.app
+        sync: false

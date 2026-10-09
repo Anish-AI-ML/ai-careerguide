@@ -1,0 +1,222 @@
+[
+ {
+  "key": "airflow",
+  "name": "Airflow",
+  "stage": "core"
+ },
+ {
+  "key": "c++",
+  "name": "C++",
+  "stage": "foundations"
+ },
+ {
+  "key": "ci/cd",
+  "name": "CI/CD",
+  "stage": "core"
+ },
+ {
+  "key": "cloud",
+  "name": "Cloud",
+  "stage": "tools"
+ },
+ {
+  "key": "computer vision",
+  "name": "Computer Vision",
+  "stage": "specialization"
+ },
+ {
+  "key": "cryptography",
+  "name": "Cryptography",
+  "stage": "tools"
+ },
+ {
+  "key": "css",
+  "name": "CSS",
+  "stage": "foundations"
+ },
+ {
+  "key": "data structures",
+  "name": "Data Structures",
+  "stage": "tools"
+ },
+ {
+  "key": "data visualization",
+  "name": "Data Visualization",
+  "stage": "tools"
+ },
+ {
+  "key": "data warehousing",
+  "name": "Data Warehousing",
+  "stage": "production"
+ },
+ {
+  "key": "deep learning",
+  "name": "Deep Learning",
+  "stage": "specialization"
+ },
+ {
+  "key": "docker",
+  "name": "Docker",
+  "stage": "tools"
+ },
+ {
+  "key": "excel",
+  "name": "Excel",
+  "stage": "foundations"
+ },
+ {
+  "key": "git",
+  "name": "Git",
+  "stage": "foundations"
+ },
+ {
+  "key": "html",
+  "name": "HTML",
+  "stage": "foundations"
+ },
+ {
+  "key": "java",
+  "name": "Java",
+  "stage": "foundations"
+ },
+ {
+  "key": "javascript",
+  "name": "Javascript",
+  "stage": "foundations"
+ },
+ {
+  "key": "kafka",
+  "name": "Kafka",
+  "stage": "production"
+ },
+ {
+  "key": "kubernetes",
+  "name": "Kubernetes",
+  "stage": "core"
+ },
+ {
+  "key": "linux",
+  "name": "Linux",
+  "stage": "foundations"
+ },
+ {
+  "key": "machine learning",
+  "name": "Machine Learning",
+  "stage": "core"
+ },
+ {
+  "key": "mlops",
+  "name": "MLOps",
+  "stage": "production"
+ },
+ {
+  "key": "mongodb",
+  "name": "MongoDB",
+  "stage": "tools"
+ },
+ {
+  "key": "monitoring",
+  "name": "Monitoring",
+  "stage": "production"
+ },
+ {
+  "key": "networking",
+  "name": "Networking",
+  "stage": "foundations"
+ },
+ {
+  "key": "nlp",
+  "name": "NLP",
+  "stage": "specialization"
+ },
+ {
+  "key": "node.js",
+  "name": "Node.js",
+  "stage": "core"
+ },
+ {
+  "key": "opencv",
+  "name": "OpenCV",
+  "stage": "core"
+ },
+ {
+  "key": "pandas",
+  "name": "Pandas",
+  "stage": "tools"
+ },
+ {
+  "key": "penetration testing",
+  "name": "Penetration Testing",
+  "stage": "core"
+ },
+ {
+  "key": "power bi",
+  "name": "Power Bi",
+  "stage": "tools"
+ },
+ {
+  "key": "python",
+  "name": "Python",
+  "stage": "foundations"
+ },
+ {
+  "key": "pytorch",
+  "name": "PyTorch",
+  "stage": "specialization"
+ },
+ {
+  "key": "react",
+  "name": "React",
+  "stage": "core"
+ },
+ {
+  "key": "security tools",
+  "name": "Security Tools",
+  "stage": "production"
+ },
+ {
+  "key": "spark",
+  "name": "Spark",
+  "stage": "core"
+ },
+ {
+  "key": "sql",
+  "name": "SQL",
+  "stage": "foundations"
+ },
+ {
+  "key": "statistics",
+  "name": "Statistics",
+  "stage": "foundations"
+ },
+ {
+  "key": "system design",
+  "name": "System Design",
+  "stage": "core"
+ },
+ {
+  "key": "tableau",
+  "name": "Tableau",
+  "stage": "core"
+ },
+ {
+  "key": "tensorflow",
+  "name": "TensorFlow",
+  "stage": "specialization"
+ },
+ {
+  "key": "terraform",
+  "name": "Terraform",
+  "stage": "core"
+ },
+ {
+  "key": "transformers",
+  "name": "Transformers",
+  "stage": "specialization"
+ },
+ {
+  "key": "typescript",
+  "name": "Typescript",
+  "stage": "tools"
+ }
+]

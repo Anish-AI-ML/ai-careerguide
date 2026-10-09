@@ -1,0 +1,755 @@
+[
+ {
+  "id": "kaggle-python",
+  "title": "Python",
+  "platform": "Kaggle Learn",
+  "provider": "Kaggle",
+  "skills": [
+   "python"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 5,
+  "url": "https://www.kaggle.com/learn/python",
+  "prerequisites": [],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "cs50p",
+  "title": "CS50's Introduction to Programming with Python",
+  "platform": "edX / Harvard",
+  "provider": "Harvard CS50",
+  "skills": [
+   "python"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 40,
+  "url": "https://cs50.harvard.edu/python/",
+  "prerequisites": [],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "kaggle-pandas",
+  "title": "Pandas",
+  "platform": "Kaggle Learn",
+  "provider": "Kaggle",
+  "skills": [
+   "pandas"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 4,
+  "url": "https://www.kaggle.com/learn/pandas",
+  "prerequisites": [
+   "python"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "kaggle-sql",
+  "title": "Intro to SQL",
+  "platform": "Kaggle Learn",
+  "provider": "Kaggle",
+  "skills": [
+   "sql"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 3,
+  "url": "https://www.kaggle.com/learn/intro-to-sql",
+  "prerequisites": [],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "kaggle-adv-sql",
+  "title": "Advanced SQL",
+  "platform": "Kaggle Learn",
+  "provider": "Kaggle",
+  "skills": [
+   "sql"
+  ],
+  "difficulty": "intermediate",
+  "duration_hours": 5,
+  "url": "https://www.kaggle.com/learn/advanced-sql",
+  "prerequisites": [
+   "sql"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "kaggle-dataviz",
+  "title": "Data Visualization",
+  "platform": "Kaggle Learn",
+  "provider": "Kaggle",
+  "skills": [
+   "data visualization"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 4,
+  "url": "https://www.kaggle.com/learn/data-visualization",
+  "prerequisites": [
+   "python",
+   "pandas"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "khan-stats",
+  "title": "Statistics and Probability",
+  "platform": "Khan Academy",
+  "provider": "Khan Academy",
+  "skills": [
+   "statistics"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 40,
+  "url": "https://www.khanacademy.org/math/statistics-probability",
+  "prerequisites": [],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "excel-skills",
+  "title": "Excel Skills for Business",
+  "platform": "Coursera",
+  "provider": "Macquarie University",
+  "skills": [
+   "excel"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 25,
+  "url": "https://www.coursera.org/specializations/excel",
+  "prerequisites": [],
+  "free": false,
+  "rating": null
+ },
+ {
+  "id": "mslearn-powerbi",
+  "title": "Power BI learning paths",
+  "platform": "Microsoft Learn",
+  "provider": "Microsoft",
+  "skills": [
+   "power bi",
+   "data visualization"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 10,
+  "url": "https://learn.microsoft.com/en-us/training/powerbi/",
+  "prerequisites": [],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "google-mlcc",
+  "title": "Machine Learning Crash Course",
+  "platform": "Google for Developers",
+  "provider": "Google",
+  "skills": [
+   "machine learning"
+  ],
+  "difficulty": "intermediate",
+  "duration_hours": 15,
+  "url": "https://developers.google.com/machine-learning/crash-course",
+  "prerequisites": [
+   "python"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "coursera-ml-spec",
+  "title": "Machine Learning Specialization",
+  "platform": "Coursera",
+  "provider": "DeepLearning.AI / Stanford (Andrew Ng)",
+  "skills": [
+   "machine learning"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 90,
+  "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+  "prerequisites": [
+   "python"
+  ],
+  "free": false,
+  "rating": null
+ },
+ {
+  "id": "kaggle-intro-ml",
+  "title": "Intro to Machine Learning",
+  "platform": "Kaggle Learn",
+  "provider": "Kaggle",
+  "skills": [
+   "machine learning"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 3,
+  "url": "https://www.kaggle.com/learn/intro-to-machine-learning",
+  "prerequisites": [
+   "python",
+   "pandas"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "coursera-dl-spec",
+  "title": "Deep Learning Specialization",
+  "platform": "Coursera",
+  "provider": "DeepLearning.AI (Andrew Ng)",
+  "skills": [
+   "deep learning",
+   "tensorflow"
+  ],
+  "difficulty": "intermediate",
+  "duration_hours": 80,
+  "url": "https://www.coursera.org/specializations/deep-learning",
+  "prerequisites": [
+   "python",
+   "machine learning"
+  ],
+  "free": false,
+  "rating": null
+ },
+ {
+  "id": "kaggle-intro-dl",
+  "title": "Intro to Deep Learning",
+  "platform": "Kaggle Learn",
+  "provider": "Kaggle",
+  "skills": [
+   "deep learning",
+   "tensorflow"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 4,
+  "url": "https://www.kaggle.com/learn/intro-to-deep-learning",
+  "prerequisites": [
+   "python",
+   "machine learning"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "fastai",
+  "title": "Practical Deep Learning for Coders",
+  "platform": "fast.ai",
+  "provider": "fast.ai",
+  "skills": [
+   "deep learning",
+   "pytorch"
+  ],
+  "difficulty": "intermediate",
+  "duration_hours": 40,
+  "url": "https://course.fast.ai/",
+  "prerequisites": [
+   "python"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "pytorch-tutorials",
+  "title": "PyTorch Tutorials: Learn the Basics",
+  "platform": "PyTorch.org",
+  "provider": "PyTorch",
+  "skills": [
+   "pytorch"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 8,
+  "url": "https://pytorch.org/tutorials/",
+  "prerequisites": [
+   "python",
+   "machine learning"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "tf-tutorials",
+  "title": "TensorFlow Tutorials",
+  "platform": "TensorFlow.org",
+  "provider": "Google",
+  "skills": [
+   "tensorflow"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 10,
+  "url": "https://www.tensorflow.org/tutorials",
+  "prerequisites": [
+   "python",
+   "machine learning"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "hf-nlp",
+  "title": "Hugging Face NLP Course",
+  "platform": "Hugging Face",
+  "provider": "Hugging Face",
+  "skills": [
+   "nlp",
+   "transformers",
+   "pytorch"
+  ],
+  "difficulty": "intermediate",
+  "duration_hours": 25,
+  "url": "https://huggingface.co/learn/nlp-course",
+  "prerequisites": [
+   "python",
+   "deep learning"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "cs224n",
+  "title": "Natural Language Processing with Deep Learning (CS224N)",
+  "platform": "Stanford Online",
+  "provider": "Stanford",
+  "skills": [
+   "nlp",
+   "deep learning"
+  ],
+  "difficulty": "advanced",
+  "duration_hours": 60,
+  "url": "https://web.stanford.edu/class/cs224n/",
+  "prerequisites": [
+   "python",
+   "deep learning",
+   "pytorch"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "kaggle-cv",
+  "title": "Computer Vision",
+  "platform": "Kaggle Learn",
+  "provider": "Kaggle",
+  "skills": [
+   "computer vision",
+   "deep learning"
+  ],
+  "difficulty": "intermediate",
+  "duration_hours": 4,
+  "url": "https://www.kaggle.com/learn/computer-vision",
+  "prerequisites": [
+   "python",
+   "deep learning"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "opencv-uni",
+  "title": "OpenCV University free courses",
+  "platform": "OpenCV.org",
+  "provider": "OpenCV",
+  "skills": [
+   "opencv",
+   "computer vision"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 15,
+  "url": "https://opencv.org/university/",
+  "prerequisites": [
+   "python"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "coursera-mlops",
+  "title": "Machine Learning Engineering for Production (MLOps) Specialization",
+  "platform": "Coursera",
+  "provider": "DeepLearning.AI",
+  "skills": [
+   "mlops"
+  ],
+  "difficulty": "advanced",
+  "duration_hours": 80,
+  "url": "https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops",
+  "prerequisites": [
+   "python",
+   "machine learning"
+  ],
+  "free": false,
+  "rating": null
+ },
+ {
+  "id": "docker-start",
+  "title": "Docker: Get Started",
+  "platform": "Docker Docs",
+  "provider": "Docker",
+  "skills": [
+   "docker"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 5,
+  "url": "https://docs.docker.com/get-started/",
+  "prerequisites": [],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "k8s-basics",
+  "title": "Learn Kubernetes Basics",
+  "platform": "Kubernetes.io",
+  "provider": "Kubernetes",
+  "skills": [
+   "kubernetes"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 6,
+  "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+  "prerequisites": [
+   "docker"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "aws-cp",
+  "title": "AWS Cloud Practitioner Essentials",
+  "platform": "AWS Training",
+  "provider": "Amazon Web Services",
+  "skills": [
+   "cloud"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 6,
+  "url": "https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/",
+  "prerequisites": [],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "terraform-tut",
+  "title": "Terraform tutorials",
+  "platform": "HashiCorp Developer",
+  "provider": "HashiCorp",
+  "skills": [
+   "terraform"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 10,
+  "url": "https://developer.hashicorp.com/terraform/tutorials",
+  "prerequisites": [
+   "cloud"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "progit",
+  "title": "Pro Git",
+  "platform": "git-scm.com",
+  "provider": "Scott Chacon & Ben Straub",
+  "skills": [
+   "git"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 8,
+  "url": "https://git-scm.com/book",
+  "prerequisites": [],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "gh-actions",
+  "title": "GitHub Actions documentation",
+  "platform": "GitHub Docs",
+  "provider": "GitHub",
+  "skills": [
+   "ci/cd"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 5,
+  "url": "https://docs.github.com/en/actions",
+  "prerequisites": [
+   "git"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "linux-journey",
+  "title": "Linux Journey",
+  "platform": "Linux Journey",
+  "provider": "Linux Journey",
+  "skills": [
+   "linux"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 15,
+  "url": "https://linuxjourney.com/",
+  "prerequisites": [],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "prometheus",
+  "title": "Prometheus overview and getting started",
+  "platform": "Prometheus Docs",
+  "provider": "Prometheus",
+  "skills": [
+   "monitoring"
+  ],
+  "difficulty": "intermediate",
+  "duration_hours": 6,
+  "url": "https://prometheus.io/docs/introduction/overview/",
+  "prerequisites": [
+   "linux",
+   "docker"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "google-networking",
+  "title": "The Bits and Bytes of Computer Networking",
+  "platform": "Coursera",
+  "provider": "Google",
+  "skills": [
+   "networking"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 25,
+  "url": "https://www.coursera.org/learn/computer-networking",
+  "prerequisites": [],
+  "free": false,
+  "rating": null
+ },
+ {
+  "id": "boneh-crypto",
+  "title": "Cryptography I",
+  "platform": "Coursera",
+  "provider": "Stanford (Dan Boneh)",
+  "skills": [
+   "cryptography"
+  ],
+  "difficulty": "intermediate",
+  "duration_hours": 20,
+  "url": "https://www.coursera.org/learn/crypto",
+  "prerequisites": [],
+  "free": false,
+  "rating": null
+ },
+ {
+  "id": "tryhackme",
+  "title": "TryHackMe learning paths",
+  "platform": "TryHackMe",
+  "provider": "TryHackMe",
+  "skills": [
+   "penetration testing"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 30,
+  "url": "https://tryhackme.com/",
+  "prerequisites": [
+   "networking",
+   "linux"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "javascript-info",
+  "title": "The Modern JavaScript Tutorial",
+  "platform": "javascript.info",
+  "provider": "javascript.info",
+  "skills": [
+   "javascript"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 40,
+  "url": "https://javascript.info/",
+  "prerequisites": [],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "ts-handbook",
+  "title": "TypeScript Handbook",
+  "platform": "TypeScript Docs",
+  "provider": "Microsoft",
+  "skills": [
+   "typescript"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 6,
+  "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+  "prerequisites": [
+   "javascript"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "react-learn",
+  "title": "Learn React",
+  "platform": "react.dev",
+  "provider": "Meta / React team",
+  "skills": [
+   "react"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 15,
+  "url": "https://react.dev/learn",
+  "prerequisites": [
+   "javascript"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "node-learn",
+  "title": "Learn Node.js",
+  "platform": "Node.js",
+  "provider": "OpenJS Foundation",
+  "skills": [
+   "node.js"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 10,
+  "url": "https://nodejs.org/en/learn",
+  "prerequisites": [
+   "javascript"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "mdn-web",
+  "title": "MDN Learn Web Development",
+  "platform": "MDN Web Docs",
+  "provider": "Mozilla",
+  "skills": [
+   "html",
+   "css"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 30,
+  "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development",
+  "prerequisites": [],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "mongo-uni",
+  "title": "MongoDB University",
+  "platform": "MongoDB University",
+  "provider": "MongoDB",
+  "skills": [
+   "mongodb"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 6,
+  "url": "https://learn.mongodb.com/",
+  "prerequisites": [],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "dev-java",
+  "title": "Learn Java",
+  "platform": "dev.java",
+  "provider": "Oracle",
+  "skills": [
+   "java"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 30,
+  "url": "https://dev.java/learn/",
+  "prerequisites": [],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "learncpp",
+  "title": "Learn C++",
+  "platform": "LearnCpp.com",
+  "provider": "LearnCpp.com",
+  "skills": [
+   "c++"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 60,
+  "url": "https://www.learncpp.com/",
+  "prerequisites": [],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "algorithms-1",
+  "title": "Algorithms, Part I",
+  "platform": "Coursera",
+  "provider": "Princeton University",
+  "skills": [
+   "data structures"
+  ],
+  "difficulty": "intermediate",
+  "duration_hours": 30,
+  "url": "https://www.coursera.org/learn/algorithms-part1",
+  "prerequisites": [
+   "java"
+  ],
+  "free": false,
+  "rating": null
+ },
+ {
+  "id": "system-design-primer",
+  "title": "The System Design Primer",
+  "platform": "GitHub",
+  "provider": "Donne Martin (open source)",
+  "skills": [
+   "system design"
+  ],
+  "difficulty": "intermediate",
+  "duration_hours": 20,
+  "url": "https://github.com/donnemartin/system-design-primer",
+  "prerequisites": [],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "spark-quickstart",
+  "title": "Apache Spark Quick Start",
+  "platform": "Apache Spark Docs",
+  "provider": "Apache Software Foundation",
+  "skills": [
+   "spark"
+  ],
+  "difficulty": "beginner",
+  "duration_hours": 8,
+  "url": "https://spark.apache.org/docs/latest/quick-start.html",
+  "prerequisites": [
+   "python",
+   "sql"
+  ],
+  "free": true,
+  "rating": null
+ },
+ {
+  "id": "airflow-tutorial",
+  "title": "Apache Airflow Tutorial",
+  "platform": "Apache Airflow Docs",
+  "provider": "Apache Software Foundation",
+  "skills": [
+   "airflow"
+  ],
+  "difficulty": "intermediate",
+  "duration_hours": 6,
+  "url": "https://airflow.apache.org/docs/apache-airflow/stable/tutorial/index.html",
+  "prerequisites": [
+   "python"
+  ],
+  "free": true,
+  "rating": null
+ }
+]
